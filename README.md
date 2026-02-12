@@ -3,11 +3,7 @@
   <h3 align="center">dicom</h3>
   <p align="center">High Performance Golang DICOM Medical Image Parser</p>
   <p align="center"> 
-    <a href="https://github.com/suyashkumar/dicom/actions"><img src="https://github.com/suyashkumar/dicom/workflows/build/badge.svg" /></a> 
-    <a href="https://godoc.org/github.com/suyashkumar/dicom"><img src="https://godoc.org/github.com/suyashkumar/dicom?status.svg" alt="" /></a>
-    <a href="https://goreportcard.com/report/github.com/suyashkumar/dicom"><img src="https://goreportcard.com/badge/github.com/suyashkumar/dicom" alt=""></a> 
-  </p>
-</p>
+  
 
 v1.0 Release
 
@@ -90,7 +86,6 @@ For v1, the core library was redesigned and rewritten to improve efficiency and 
 * GradientHealth for supporting early development work.
 * Innolitics DICOM browser.
 * DICOM Specification.
-* Icons made by Freepik from www.flaticon.com, licensed by CC 3.0 BY.
 
 ## Maintainer
 This project is maintained by Rudra Patel, an AI Automation Engineer with a focus on high-performance systems and medical imaging data.
