@@ -92,5 +92,5 @@ This project is maintained by Rudra Patel, an AI Automation Engineer with a focu
 
 * Name: Rudra Patel
 * Email: patel.rudra@ufl.edu
-* LinkedIn: https://www.linkedin.com/in/rudra-patel
+* LinkedIn: https://www.linkedin.com/in/rudrapatell26/
 * Professional Focus: AI Automation, Python, C++, and Scalable Engineering Solutions.
